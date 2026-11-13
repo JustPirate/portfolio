@@ -7,7 +7,7 @@
 [![Vite](https://img.shields.io/badge/Vite-5.4-646CFF.svg?style=flat&logo=vite)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC.svg?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.18-0055FF.svg?style=flat&logo=framer)](https://www.framer.com/motion/)
-[![Live Demo](https://img.shields.io/badge/Demo-vijaygovindbiju.github.io-success.svg?style=flat&logo=githubpages)](https://vijaygovindbiju.github.io/portfolio/)
+[![Live Demo](https://img.shields.io/badge/Demo-JustPirate.github.io-success.svg?style=flat&logo=githubpages)](https://JustPirate.github.io/portfolio/)
 
 ---
 
@@ -15,7 +15,7 @@
 
 A fast, accessible, dark-mode first personal developer portfolio built with **React**, **TypeScript**, **Vite**, **Tailwind CSS**, and **Framer Motion**. Designed around a high-contrast Linux terminal aesthetic inspired by modern developer systems tooling and engineering dashboards.
 
-- 🌐 **Live URL:** [https://vijaygovindbiju.github.io/portfolio/](https://vijaygovindbiju.github.io/portfolio/)
+- 🌐 **Live URL:** [https://JustPirate.github.io/portfolio/](https://JustPirate.github.io/portfolio/)
 - 🎨 **Design Concept:** 70% deep neutral surfaces, 20% card containers, 10% vivid cyan/amber accents.
 - ⚡ **Zero Bloat:** Pure client-side static bundle optimized for GitHub Pages and edge CDNs.
 
@@ -54,7 +54,7 @@ A fast, accessible, dark-mode first personal developer portfolio built with **Re
 
 ```bash
 # Clone the repository
-git clone https://github.com/vijaygovindBiju/portfolio.git
+git clone https://github.com/JustPirate/portfolio.git
 cd portfolio
 
 # Install dependencies
